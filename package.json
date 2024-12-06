@@ -1,0 +1,27 @@
+{
+  "name": "hexo-cdn-refresh",
+  "version": "1.2.6",
+  "description": "Each time you deploy hexo automatically update Tencent Cloud CDN",
+  "main": "index",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XINGMOUREN/hexo-cdn-refresh"
+  },
+  "keywords": [
+    "hexo",
+    "deployer",
+    "TencentCloud",
+    "CDN"
+  ],
+  "author": {
+    "name": "HAPPYKING",
+    "email": "2638526782@qq.com",
+    "url": "https://www.happyking.top"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "utility": "^1.15.0"
+  }
+}
